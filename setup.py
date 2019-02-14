@@ -35,5 +35,4 @@ setup(name='ecs-lib-tornado-swirl',
         'Programming Language :: Python :: 3.6'
       ],
       keywords=['SWAGGER', 'OPENAPI', 'TORNADO'],
-      download_url='https://github.com/arthur-barbosa18/ecs-lib-tornado-swirl/archive/master.zip',
 )
