@@ -21,6 +21,7 @@ setup(name='ecs-lib-tornado-swirl',
       },
       description='Extract swagger specs from your tornado project',
       author='Rodolfo Duldulao modify by Arthur Barbosa',
+      author_email='arthuralves187@gmail.com',
       license='MIT',
       long_description=long_description,
       install_requires=[
