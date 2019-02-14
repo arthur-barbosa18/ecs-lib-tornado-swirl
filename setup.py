@@ -8,7 +8,7 @@ with open('README') as file:
 
 setup(name='ecs-lib-tornado-swirl',
       python_requires='>=3.6.0',
-      version='0.1.14',
+      version='0.0.1',
       url='https://github.com/arthur-barbosa18/ecs-lib-tornado-swirl.git',
       zip_safe=False,
       packages=['tornado_swirl'],
